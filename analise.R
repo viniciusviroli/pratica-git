@@ -1,0 +1,1 @@
+media <- mean(dados$Temp)
